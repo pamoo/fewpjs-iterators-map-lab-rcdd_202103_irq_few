@@ -11,7 +11,7 @@ const tutorials = [
   'Immutable State and Pure Functions',
   'what is the difference between == and ===?',
   'what is the difference between event capturing and bubbling?',
-  'what is JSONP?'
+  'what is JSONP?',
   'What Is NaN And How Can We Check For It',
   'What Is The Difference Between StopPropagation And PreventDefault?',
   'Immutable State And Pure Functions',
